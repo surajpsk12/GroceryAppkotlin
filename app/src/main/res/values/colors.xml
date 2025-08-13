@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="groceryPrimary">#22C55E</color>
+    <color name="grocerySecondary">#16A34A</color>
+    <color name="groceryBackground">#F7FAFC</color>
+    <color name="groceryCardBg">#FFFFFF</color>
+    <color name="groceryTextDark">#2D3748</color>
+    <color name="groceryTextLight">#718096</color>
+    <color name="groceryAccent">#FFA726</color>
 </resources>
